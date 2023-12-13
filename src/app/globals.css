@@ -45,3 +45,12 @@ button:hover {
 button:disabled {
   background-color: lightgray;
 }
+
+input[type="radio"] {
+  margin-left: -550px; /* Agregamos un margen izquierdo para separar el radio button del texto */
+}
+
+input[type="checkbox"] {
+  margin-left: -550px; /* Agregamos un margen izquierdo para separar el radio button del texto */
+}
+
